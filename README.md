@@ -1,10 +1,10 @@
-<div id="top"></div>
-<!--
-*** Thanks for checking out our wedding invitation template.
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+## Getting Started
+This is an template Wedding Invitation website I did for my own wedding.
+Might as well reuse it for this cloud project.
 
+## Pre-requisites
+1. Images of Deploying Static Website on AWS S3 are in the folder `udacity-screentshots`
+2. Domain name is https://d2t7vl1lnjq23o.cloudfront.net
 
 <!-- PROJECT LOGO -->
 <br />
@@ -12,20 +12,12 @@
   <a href="https://github.com/JunMaxwell">
     <img src="images/Vyr2.png" alt="Logo" width="120" height="120">
   </a>
-
   <h1 align="center">Wedding Invitation</h1>
-
   <p align="center">
     <strong>Thien Y & Phuong Thanh</strong>
-    <br />
-    <!-- <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a> -->
-    <br />
-    <br />
-    <!-- <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a> -->
-    ·
-    <!-- <a href="https://github.com/maulidannashuha">Maulidan Nashuha</a> -->
   </p>
 </div>
+
 
 ## Features
 - Countdown to the date and count how many days have been
